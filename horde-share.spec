@@ -5,7 +5,7 @@
 
 Name:		horde-share
 Version:	0.0.3
-Release:	%mkrel 3
+Release:	%mkrel 4
 Summary:	Horde Browser package
 License:	LGPL
 Group:		Networking/Mail
