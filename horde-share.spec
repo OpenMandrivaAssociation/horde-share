@@ -56,3 +56,25 @@ fi
 %{peardir}/Horde/Share.php
 
 
+
+
+%changelog
+* Sat Jul 31 2010 Thomas Spuhler <tspuhler@mandriva.org> 0.0.3-4mdv2011.0
++ Revision: 564100
+- Increased release for rebuild
+
+* Thu Mar 18 2010 Thomas Spuhler <tspuhler@mandriva.org> 0.0.3-3mdv2010.1
++ Revision: 524854
+- replaced Requires(pre): %%{_bindir}/pear with Requires(pre): php-pear
+  increased rel ver to 2
+
+* Mon Feb 22 2010 Thomas Spuhler <tspuhler@mandriva.org> 0.0.3-2mdv2010.1
++ Revision: 509385
+- line Requires(pre) added missing %%{_bindir}/pear
+- increase rel version
+
+* Tue Feb 16 2010 Thomas Spuhler <tspuhler@mandriva.org> 0.0.3-1mdv2010.1
++ Revision: 506425
+- import horde-share
+
+
